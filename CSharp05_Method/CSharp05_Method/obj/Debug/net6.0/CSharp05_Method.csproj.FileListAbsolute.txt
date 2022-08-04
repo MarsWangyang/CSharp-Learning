@@ -1,0 +1,15 @@
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/bin/Debug/net6.0/CSharp05_Method
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/bin/Debug/net6.0/CSharp05_Method.deps.json
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/bin/Debug/net6.0/CSharp05_Method.runtimeconfig.json
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/bin/Debug/net6.0/CSharp05_Method.dll
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/bin/Debug/net6.0/CSharp05_Method.pdb
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/obj/Debug/net6.0/CSharp05_Method.csproj.AssemblyReference.cache
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/obj/Debug/net6.0/CSharp05_Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/obj/Debug/net6.0/CSharp05_Method.AssemblyInfoInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/obj/Debug/net6.0/CSharp05_Method.AssemblyInfo.cs
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/obj/Debug/net6.0/CSharp05_Method.csproj.CoreCompileInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/obj/Debug/net6.0/CSharp05_Method.dll
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/obj/Debug/net6.0/refint/CSharp05_Method.dll
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/obj/Debug/net6.0/CSharp05_Method.pdb
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/obj/Debug/net6.0/CSharp05_Method.genruntimeconfig.cache
+/Users/mars/Desktop/C#Learning/CSharp05_Method/CSharp05_Method/obj/Debug/net6.0/ref/CSharp05_Method.dll

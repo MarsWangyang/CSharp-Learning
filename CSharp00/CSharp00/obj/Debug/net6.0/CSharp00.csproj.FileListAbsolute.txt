@@ -1,0 +1,15 @@
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/bin/Debug/net6.0/CSharp00
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/bin/Debug/net6.0/CSharp00.deps.json
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/bin/Debug/net6.0/CSharp00.runtimeconfig.json
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/bin/Debug/net6.0/CSharp00.dll
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/bin/Debug/net6.0/CSharp00.pdb
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/obj/Debug/net6.0/CSharp00.csproj.AssemblyReference.cache
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/obj/Debug/net6.0/CSharp00.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/obj/Debug/net6.0/CSharp00.AssemblyInfoInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/obj/Debug/net6.0/CSharp00.AssemblyInfo.cs
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/obj/Debug/net6.0/CSharp00.csproj.CoreCompileInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/obj/Debug/net6.0/CSharp00.dll
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/obj/Debug/net6.0/refint/CSharp00.dll
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/obj/Debug/net6.0/CSharp00.pdb
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/obj/Debug/net6.0/CSharp00.genruntimeconfig.cache
+/Users/mars/Desktop/C#Learning/CSharp00/CSharp00/obj/Debug/net6.0/ref/CSharp00.dll

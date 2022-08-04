@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0448DE0A-CC87-4AEC-BCBE-813CDD13064C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharp03_MabLib/Program.cs">
+    <Files>
+      <File FileName="CSharp03_MabLib/Program.cs" Line="22" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharp03_MabLib" expanded="True">
+            <Node name="CSharp03_MabLib" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CSharp03__MabLib PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

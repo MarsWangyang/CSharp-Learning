@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{487EED8A-AFFB-460F-A8D5-522CB78CFDE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharp00/Program.cs">
+    <Files>
+      <File FileName="CSharp00/Program.cs" Line="43" Column="96" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpOne" expanded="True">
+            <Node name="CSharpOne" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSharpOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
