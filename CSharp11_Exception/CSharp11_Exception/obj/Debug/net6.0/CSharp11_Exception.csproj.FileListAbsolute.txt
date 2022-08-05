@@ -1,0 +1,15 @@
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/bin/Debug/net6.0/CSharp11_Exception
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/bin/Debug/net6.0/CSharp11_Exception.deps.json
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/bin/Debug/net6.0/CSharp11_Exception.runtimeconfig.json
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/bin/Debug/net6.0/CSharp11_Exception.dll
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/bin/Debug/net6.0/CSharp11_Exception.pdb
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/obj/Debug/net6.0/CSharp11_Exception.csproj.AssemblyReference.cache
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/obj/Debug/net6.0/CSharp11_Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/obj/Debug/net6.0/CSharp11_Exception.AssemblyInfoInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/obj/Debug/net6.0/CSharp11_Exception.AssemblyInfo.cs
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/obj/Debug/net6.0/CSharp11_Exception.csproj.CoreCompileInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/obj/Debug/net6.0/CSharp11_Exception.dll
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/obj/Debug/net6.0/refint/CSharp11_Exception.dll
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/obj/Debug/net6.0/CSharp11_Exception.pdb
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/obj/Debug/net6.0/CSharp11_Exception.genruntimeconfig.cache
+/Users/mars/Desktop/C#Learning/CSharp11_Exception/CSharp11_Exception/obj/Debug/net6.0/ref/CSharp11_Exception.dll

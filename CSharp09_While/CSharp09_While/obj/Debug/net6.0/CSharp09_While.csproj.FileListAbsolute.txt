@@ -1,0 +1,15 @@
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/bin/Debug/net6.0/CSharp09_While
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/bin/Debug/net6.0/CSharp09_While.deps.json
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/bin/Debug/net6.0/CSharp09_While.runtimeconfig.json
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/bin/Debug/net6.0/CSharp09_While.dll
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/bin/Debug/net6.0/CSharp09_While.pdb
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/obj/Debug/net6.0/CSharp09_While.csproj.AssemblyReference.cache
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/obj/Debug/net6.0/CSharp09_While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/obj/Debug/net6.0/CSharp09_While.AssemblyInfoInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/obj/Debug/net6.0/CSharp09_While.AssemblyInfo.cs
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/obj/Debug/net6.0/CSharp09_While.csproj.CoreCompileInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/obj/Debug/net6.0/CSharp09_While.dll
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/obj/Debug/net6.0/refint/CSharp09_While.dll
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/obj/Debug/net6.0/CSharp09_While.pdb
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/obj/Debug/net6.0/CSharp09_While.genruntimeconfig.cache
+/Users/mars/Desktop/C#Learning/CSharp09_While/CSharp09_While/obj/Debug/net6.0/ref/CSharp09_While.dll

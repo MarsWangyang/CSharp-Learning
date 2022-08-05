@@ -1,0 +1,15 @@
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/bin/Debug/net6.0/CSharp12_ClassObject
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/bin/Debug/net6.0/CSharp12_ClassObject.deps.json
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/bin/Debug/net6.0/CSharp12_ClassObject.runtimeconfig.json
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/bin/Debug/net6.0/CSharp12_ClassObject.dll
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/bin/Debug/net6.0/CSharp12_ClassObject.pdb
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/obj/Debug/net6.0/CSharp12_ClassObject.csproj.AssemblyReference.cache
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/obj/Debug/net6.0/CSharp12_ClassObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/obj/Debug/net6.0/CSharp12_ClassObject.AssemblyInfoInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/obj/Debug/net6.0/CSharp12_ClassObject.AssemblyInfo.cs
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/obj/Debug/net6.0/CSharp12_ClassObject.csproj.CoreCompileInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/obj/Debug/net6.0/CSharp12_ClassObject.dll
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/obj/Debug/net6.0/refint/CSharp12_ClassObject.dll
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/obj/Debug/net6.0/CSharp12_ClassObject.pdb
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/obj/Debug/net6.0/CSharp12_ClassObject.genruntimeconfig.cache
+/Users/mars/Desktop/C#Learning/CSharp12_ClassObject/CSharp12_ClassObject/obj/Debug/net6.0/ref/CSharp12_ClassObject.dll

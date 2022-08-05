@@ -1,0 +1,15 @@
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/bin/Debug/net6.0/CSharp08_switch
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/bin/Debug/net6.0/CSharp08_switch.deps.json
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/bin/Debug/net6.0/CSharp08_switch.runtimeconfig.json
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/bin/Debug/net6.0/CSharp08_switch.dll
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/bin/Debug/net6.0/CSharp08_switch.pdb
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/obj/Debug/net6.0/CSharp08_switch.csproj.AssemblyReference.cache
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/obj/Debug/net6.0/CSharp08_switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/obj/Debug/net6.0/CSharp08_switch.AssemblyInfoInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/obj/Debug/net6.0/CSharp08_switch.AssemblyInfo.cs
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/obj/Debug/net6.0/CSharp08_switch.csproj.CoreCompileInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/obj/Debug/net6.0/CSharp08_switch.dll
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/obj/Debug/net6.0/refint/CSharp08_switch.dll
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/obj/Debug/net6.0/CSharp08_switch.pdb
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/obj/Debug/net6.0/CSharp08_switch.genruntimeconfig.cache
+/Users/mars/Desktop/C#Learning/CSharp08_switch/CSharp08_switch/obj/Debug/net6.0/ref/CSharp08_switch.dll

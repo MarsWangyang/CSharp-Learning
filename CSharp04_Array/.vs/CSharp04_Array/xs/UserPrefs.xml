@@ -1,4 +1,6 @@
 ﻿<Properties StartupConfiguration="{164FDB70-67C1-4707-B614-936268761BDA}|Default">
+  <MonoDevelop.Ide.ItemProperties.CSharp04__Array FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CSharp04_Array/Program.cs">
     <Files>
       <File FileName="CSharp04_Array/Program.cs" Line="46" Column="1" />
@@ -16,10 +18,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CSharp04__Array PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

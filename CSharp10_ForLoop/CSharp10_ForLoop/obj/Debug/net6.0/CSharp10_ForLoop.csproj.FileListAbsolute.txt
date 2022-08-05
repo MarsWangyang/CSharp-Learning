@@ -1,0 +1,15 @@
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/bin/Debug/net6.0/CSharp10_ForLoop
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/bin/Debug/net6.0/CSharp10_ForLoop.deps.json
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/bin/Debug/net6.0/CSharp10_ForLoop.runtimeconfig.json
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/bin/Debug/net6.0/CSharp10_ForLoop.dll
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/bin/Debug/net6.0/CSharp10_ForLoop.pdb
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/obj/Debug/net6.0/CSharp10_ForLoop.csproj.AssemblyReference.cache
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/obj/Debug/net6.0/CSharp10_ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/obj/Debug/net6.0/CSharp10_ForLoop.AssemblyInfoInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/obj/Debug/net6.0/CSharp10_ForLoop.AssemblyInfo.cs
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/obj/Debug/net6.0/CSharp10_ForLoop.csproj.CoreCompileInputs.cache
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/obj/Debug/net6.0/CSharp10_ForLoop.dll
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/obj/Debug/net6.0/refint/CSharp10_ForLoop.dll
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/obj/Debug/net6.0/CSharp10_ForLoop.pdb
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/obj/Debug/net6.0/CSharp10_ForLoop.genruntimeconfig.cache
+/Users/mars/Desktop/C#Learning/CSharp10_ForLoop/CSharp10_ForLoop/obj/Debug/net6.0/ref/CSharp10_ForLoop.dll
